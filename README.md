@@ -1,7 +1,7 @@
 ## 3D Gallery 
 
 
-### Steps used to upload folder in git for future issues in  main branch:
+####  ✨ Steps used to upload folder in git for future issues in  main branch ✨
 1. git init
 2. git remote add origin https://github.com/RajK01/3D-Rotating_Image-Gallary.git
 3. git status
